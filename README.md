@@ -1,6 +1,6 @@
 # CRCBAC_code – Setup de Reprodução
 
-> Baseline **CRCBAC** (Context-aware Role-Capability-Based Access Control) para comparação no manuscrito Anubis.
+> Baseline **CRCBAC** (Context-aware Role-Capability-Based Access Control).
 > Repo original: https://github.com/krishnasreeja/CRCBAC_code
 
 ---
